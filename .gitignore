@@ -4,3 +4,6 @@ build/
 *.iml
 target/*
 !target/jacoco.exec
+!target/site
+target/site/*
+!target/site/jacoco
